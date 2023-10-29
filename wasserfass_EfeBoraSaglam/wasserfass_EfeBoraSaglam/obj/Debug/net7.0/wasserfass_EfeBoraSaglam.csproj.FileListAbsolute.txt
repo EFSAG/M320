@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\c#\wasserfass_EfeBoraSaglam\wasserfass_EfeBoraSaglam\bin\Debug\net7.0\wasserfass_EfeBoraSaglam.exe
+C:\Users\Lenovo\Downloads\c#\wasserfass_EfeBoraSaglam\wasserfass_EfeBoraSaglam\bin\Debug\net7.0\wasserfass_EfeBoraSaglam.deps.json
+C:\Users\Lenovo\Downloads\c#\wasserfass_EfeBoraSaglam\wasserfass_EfeBoraSaglam\bin\Debug\net7.0\wasserfass_EfeBoraSaglam.runtimeconfig.json
+C:\Users\Lenovo\Downloads\c#\wasserfass_EfeBoraSaglam\wasserfass_EfeBoraSaglam\bin\Debug\net7.0\wasserfass_EfeBoraSaglam.dll
+C:\Users\Lenovo\Downloads\c#\wasserfass_EfeBoraSaglam\wasserfass_EfeBoraSaglam\bin\Debug\net7.0\wasserfass_EfeBoraSaglam.pdb
+C:\Users\Lenovo\Downloads\c#\wasserfass_EfeBoraSaglam\wasserfass_EfeBoraSaglam\obj\Debug\net7.0\wasserfass_EfeBoraSaglam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\c#\wasserfass_EfeBoraSaglam\wasserfass_EfeBoraSaglam\obj\Debug\net7.0\wasserfass_EfeBoraSaglam.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\c#\wasserfass_EfeBoraSaglam\wasserfass_EfeBoraSaglam\obj\Debug\net7.0\wasserfass_EfeBoraSaglam.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\c#\wasserfass_EfeBoraSaglam\wasserfass_EfeBoraSaglam\obj\Debug\net7.0\wasserfass_EfeBoraSaglam.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\c#\wasserfass_EfeBoraSaglam\wasserfass_EfeBoraSaglam\obj\Debug\net7.0\wasserfass_EfeBoraSaglam.dll
+C:\Users\Lenovo\Downloads\c#\wasserfass_EfeBoraSaglam\wasserfass_EfeBoraSaglam\obj\Debug\net7.0\refint\wasserfass_EfeBoraSaglam.dll
+C:\Users\Lenovo\Downloads\c#\wasserfass_EfeBoraSaglam\wasserfass_EfeBoraSaglam\obj\Debug\net7.0\wasserfass_EfeBoraSaglam.pdb
+C:\Users\Lenovo\Downloads\c#\wasserfass_EfeBoraSaglam\wasserfass_EfeBoraSaglam\obj\Debug\net7.0\wasserfass_EfeBoraSaglam.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\c#\wasserfass_EfeBoraSaglam\wasserfass_EfeBoraSaglam\obj\Debug\net7.0\ref\wasserfass_EfeBoraSaglam.dll
