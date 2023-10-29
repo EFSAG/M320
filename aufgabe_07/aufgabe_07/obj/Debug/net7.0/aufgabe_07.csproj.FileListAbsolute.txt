@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\c#\aufgabe_07\aufgabe_07\bin\Debug\net7.0\aufgabe_07.exe
+C:\Users\Lenovo\Downloads\c#\aufgabe_07\aufgabe_07\bin\Debug\net7.0\aufgabe_07.deps.json
+C:\Users\Lenovo\Downloads\c#\aufgabe_07\aufgabe_07\bin\Debug\net7.0\aufgabe_07.runtimeconfig.json
+C:\Users\Lenovo\Downloads\c#\aufgabe_07\aufgabe_07\bin\Debug\net7.0\aufgabe_07.dll
+C:\Users\Lenovo\Downloads\c#\aufgabe_07\aufgabe_07\bin\Debug\net7.0\aufgabe_07.pdb
+C:\Users\Lenovo\Downloads\c#\aufgabe_07\aufgabe_07\obj\Debug\net7.0\aufgabe_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\c#\aufgabe_07\aufgabe_07\obj\Debug\net7.0\aufgabe_07.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\c#\aufgabe_07\aufgabe_07\obj\Debug\net7.0\aufgabe_07.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\c#\aufgabe_07\aufgabe_07\obj\Debug\net7.0\aufgabe_07.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\c#\aufgabe_07\aufgabe_07\obj\Debug\net7.0\aufgabe_07.dll
+C:\Users\Lenovo\Downloads\c#\aufgabe_07\aufgabe_07\obj\Debug\net7.0\refint\aufgabe_07.dll
+C:\Users\Lenovo\Downloads\c#\aufgabe_07\aufgabe_07\obj\Debug\net7.0\aufgabe_07.pdb
+C:\Users\Lenovo\Downloads\c#\aufgabe_07\aufgabe_07\obj\Debug\net7.0\aufgabe_07.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\c#\aufgabe_07\aufgabe_07\obj\Debug\net7.0\ref\aufgabe_07.dll
