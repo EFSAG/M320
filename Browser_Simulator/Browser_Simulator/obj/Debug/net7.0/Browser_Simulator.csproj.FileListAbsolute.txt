@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\c#\Browser_Simulator\Browser_Simulator\bin\Debug\net7.0\Browser_Simulator.exe
+C:\Users\Lenovo\Downloads\c#\Browser_Simulator\Browser_Simulator\bin\Debug\net7.0\Browser_Simulator.deps.json
+C:\Users\Lenovo\Downloads\c#\Browser_Simulator\Browser_Simulator\bin\Debug\net7.0\Browser_Simulator.runtimeconfig.json
+C:\Users\Lenovo\Downloads\c#\Browser_Simulator\Browser_Simulator\bin\Debug\net7.0\Browser_Simulator.dll
+C:\Users\Lenovo\Downloads\c#\Browser_Simulator\Browser_Simulator\bin\Debug\net7.0\Browser_Simulator.pdb
+C:\Users\Lenovo\Downloads\c#\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\c#\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\c#\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\c#\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\c#\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.dll
+C:\Users\Lenovo\Downloads\c#\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\refint\Browser_Simulator.dll
+C:\Users\Lenovo\Downloads\c#\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.pdb
+C:\Users\Lenovo\Downloads\c#\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\Browser_Simulator.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\c#\Browser_Simulator\Browser_Simulator\obj\Debug\net7.0\ref\Browser_Simulator.dll
