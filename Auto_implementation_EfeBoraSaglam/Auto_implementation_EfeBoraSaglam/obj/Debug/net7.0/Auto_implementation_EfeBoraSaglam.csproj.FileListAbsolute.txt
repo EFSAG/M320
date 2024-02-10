@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\c#\Auto_implementation_EfeBoraSaglam\Auto_implementation_EfeBoraSaglam\obj\Debug\net7.0\Auto_implementation_EfeBoraSaglam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\c#\Auto_implementation_EfeBoraSaglam\Auto_implementation_EfeBoraSaglam\obj\Debug\net7.0\Auto_implementation_EfeBoraSaglam.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\c#\Auto_implementation_EfeBoraSaglam\Auto_implementation_EfeBoraSaglam\obj\Debug\net7.0\Auto_implementation_EfeBoraSaglam.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\c#\Auto_implementation_EfeBoraSaglam\Auto_implementation_EfeBoraSaglam\obj\Debug\net7.0\Auto_implementation_EfeBoraSaglam.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\c#\Auto_implementation_EfeBoraSaglam\Auto_implementation_EfeBoraSaglam\bin\Debug\net7.0\Auto_implementation_EfeBoraSaglam.exe
+C:\Users\Lenovo\Downloads\c#\Auto_implementation_EfeBoraSaglam\Auto_implementation_EfeBoraSaglam\bin\Debug\net7.0\Auto_implementation_EfeBoraSaglam.deps.json
+C:\Users\Lenovo\Downloads\c#\Auto_implementation_EfeBoraSaglam\Auto_implementation_EfeBoraSaglam\bin\Debug\net7.0\Auto_implementation_EfeBoraSaglam.runtimeconfig.json
+C:\Users\Lenovo\Downloads\c#\Auto_implementation_EfeBoraSaglam\Auto_implementation_EfeBoraSaglam\bin\Debug\net7.0\Auto_implementation_EfeBoraSaglam.dll
+C:\Users\Lenovo\Downloads\c#\Auto_implementation_EfeBoraSaglam\Auto_implementation_EfeBoraSaglam\bin\Debug\net7.0\Auto_implementation_EfeBoraSaglam.pdb
+C:\Users\Lenovo\Downloads\c#\Auto_implementation_EfeBoraSaglam\Auto_implementation_EfeBoraSaglam\obj\Debug\net7.0\Auto_implementation_EfeBoraSaglam.dll
+C:\Users\Lenovo\Downloads\c#\Auto_implementation_EfeBoraSaglam\Auto_implementation_EfeBoraSaglam\obj\Debug\net7.0\refint\Auto_implementation_EfeBoraSaglam.dll
+C:\Users\Lenovo\Downloads\c#\Auto_implementation_EfeBoraSaglam\Auto_implementation_EfeBoraSaglam\obj\Debug\net7.0\Auto_implementation_EfeBoraSaglam.pdb
+C:\Users\Lenovo\Downloads\c#\Auto_implementation_EfeBoraSaglam\Auto_implementation_EfeBoraSaglam\obj\Debug\net7.0\Auto_implementation_EfeBoraSaglam.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\c#\Auto_implementation_EfeBoraSaglam\Auto_implementation_EfeBoraSaglam\obj\Debug\net7.0\ref\Auto_implementation_EfeBoraSaglam.dll
